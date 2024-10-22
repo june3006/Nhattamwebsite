@@ -49,44 +49,6 @@ export default function Section8() {
                                             </clipPath>
                                         </defs>
                                     </svg></span>Xem thêm</Link></div>
-                            <div className="box-reviews-home5">
-                                <div className="box-swiper">
-                                    <div className="swiper-container swiper-group-1">
-                                        <Swiper {...swiperOptions}>
-                                            <SwiperSlide>
-                                                <div className="item-review-discover">
-                                                    <p className="text-lg">I've been working with this digital marketing agency
-                                                        for several months now, and I'm genuinely thrilled with the results.
-                                                        Their team has a deep understanding of SEO and social media
-                                                        marketing.</p>
-                                                    <div className="box-author-review">
-                                                        <div className="box-author"><Link href="#"><img src="/assets/imgs/page/homepage1/author.png" alt="Nivia" /></Link>
-                                                            <div className="author-info"><Link href="#"><span className="author-name">Guy Hawkins</span></Link><span className="text-sm color-600 department">Apple JSC</span>
-                                                            </div>
-                                                        </div>
-                                                        <div className="author-brand"><Link href="#"><img src="/assets/imgs/page/homepage1/mint.png" alt="Nivia" /></Link></div>
-                                                    </div>
-                                                </div>
-                                            </SwiperSlide>
-                                            <SwiperSlide>
-                                                <div className="item-review-discover">
-                                                    <p className="text-lg">Their communication is exceptional; they keep me
-                                                        informed about progress and collaborate closely to ensure the best
-                                                        outcomes. If you're looking for a digital marketing agency, these
-                                                        folks are the real deal.</p>
-                                                    <div className="box-author-review">
-                                                        <div className="box-author"><Link href="#"><img src="/assets/imgs/page/homepage1/author2.png" alt="Nivia" /></Link>
-                                                            <div className="author-info"><Link href="#"><span className="author-name">Rosie Jane</span></Link><span className="text-sm color-600 department">Apple JSC</span>
-                                                            </div>
-                                                        </div>
-                                                        <div className="author-brand"><Link href="#"><img src="/assets/imgs/page/homepage1/logo6.png" alt="Nivia" /></Link></div>
-                                                    </div>
-                                                </div>
-                                            </SwiperSlide>
-                                        </Swiper>
-                                    </div>
-                                </div>
-                            </div>
                         </div>
                     </div>
                 </div>

@@ -22,7 +22,7 @@ export default function Section4() {
                                 </div>
                             </div>
                         </div>
-                        <div className="col-lg-4 col-md-6">
+                        <div className="col-lg-4 col-md-6"> 
                             <div className="card-preparing">
                                 <div className="card-image"><img className="wow fadeInUp" src="/assets/imgs/page/homepage1/img-prepare2.png" alt="Nivia" /></div>
                                 <div className="card-info">

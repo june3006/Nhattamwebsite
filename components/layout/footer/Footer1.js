@@ -8,8 +8,8 @@ export default function Footer1() {
                     <div className="row">
                         <div className="col-md-6 col-sm-12 mb-30"><Link href="/"><img alt="Nivia" src="/assets/imgs/template/logo.svg" /></Link>
                             <div className="mt-20 mb-20">
-                                <p className="text-md neutral-600 mb-10">4517 Washington Ave. Manchester, Kentucky 39495</p>
-                                <p className="text-md neutral-600">Hours: 8:00 - 17:00, Mon - Sat </p>
+                                <p className="text-md neutral-600 mb-10">299/5 Nguyen Van Troi, Ward 1, Tan Binh District, Ho Chi Minh City</p>
+                                <p className="text-md neutral-600">Hours: 9:00 - 18:00, Mon - Sat </p>
                             </div>
                         </div>
                         <div className="col-md-6 col-sm-12">

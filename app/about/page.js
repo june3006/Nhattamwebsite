@@ -126,44 +126,7 @@ export default function About() {
                             </div>
                         </div>
                     </section>
-                    <section className="section-box wow animate__animated animate__fadeIn box-our-team-2">
-                        <div className="box-our-team-2-inner">
-                            <div className="container">
-                                <div className="text-center"><Link className="btn btn-brand-4-sm" href="#">Our people</Link>
-                                    <h2 className="mb-20 mt-20">Meet Our Team</h2>
-                                    <p className="text-md neutral-500">This is our team, a lot of smiling happy people who work hard
-                                        to<br className="d-none d-lg-block" />empower your teams.</p>
-                                </div>
-                                <div className="box-swiper mt-60">
-                                    <Team2Slider />
-                                </div>
-                            </div>
-                        </div>
-                    </section>
-                    <section className="section-box box-awards-section">
-                        <div className="container">
-                            <div className="row align-items-end">
-                                <div className="col-lg-4 mb-30">
-                                    <h2 className="mb-15">Our Awards</h2>
-                                    <p className="text-md neutral-700">Holisticly actualize magnetic testing procedures for high-quality
-                                        initiatives. Compellingly enhance client-based users whereas strategic bandwidth.
-                                        Appropriately exploit cost effective.</p>
-                                </div>
-                                <div className="col-lg-8 mb-30">
-                                    <div className="row align-items-end">
-                                        <div className="col-sm-3 col-6 mb-30"><img src="/assets/imgs/page/about/award.png" alt="Nivia" />
-                                        </div>
-                                        <div className="col-sm-3 col-6 mb-30"><img src="/assets/imgs/page/about/award2.png" alt="Nivia" />
-                                        </div>
-                                        <div className="col-sm-3 col-6 mb-30"><img src="/assets/imgs/page/about/award3.png" alt="Nivia" />
-                                        </div>
-                                        <div className="col-sm-3 col-6 mb-30"><img src="/assets/imgs/page/about/award4.png" alt="Nivia" />
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </section>
+                    
                     <section className="section-box box-pricing-2 box-pricing-4">
                         <div className="box-pricing-2-inner">
                             <div className="container">
