@@ -10,7 +10,7 @@ export default function Blog() {
                 <section className="section-box box-content-blog">
                     <div className="container">
                         <div className="text-center blog-head"><span className="icon-1 shape-1" /><span className="icon-2 shape-2" /><span className="icon-3 shape-3" /><span className="btn btn-brand-4-sm">Đọc ngay</span>
-                            <h2 className="heading-2 mb-20 mt-15">Các bài viết</h2>
+                            <h2 className="heading-2 mb-20 mt-15">Các bài viết 111</h2>
                             <p className="text-lg">Hãy khám phá các bài viết dưới đây để có thêm nhiều góc nhìn hơn<br className="d-none d-lg-block" />và những thông tin khác.</p>
 
                         </div>
